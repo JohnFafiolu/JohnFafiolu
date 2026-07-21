@@ -1,30 +1,37 @@
-# Hi there, I'm John Fafiolu 👋
+# Hi there, I'm John Olukayode 👋
 
-**Statistician | Risk Analyst | Freelance Data Consultant**
+**Data Analyst | Statistician | Data Storyteller**
 
-I am a data professional that specializes in predictive modeling, risk analytics,Financial Analysis and statistical Analysis. I use data to solve financial and research problems, transforming messy and raw datasets into clean actionable insights. 
+I am a Data Analyst and quantitative researcher with a strong foundation in statistical modeling and econometrics. I specialize in translating complex, messy data into clean, actionable business strategies. Whether I am forecasting stock market volatility using autoregressive models or standardizing FMCG inventory data, I focus on delivering accuracy and clear, bottom-line insights.
 
-My goal is precision, whether I am building hybrid time-series models to assess market volatility or running hypothesis tests.
+Currently, I am expanding my freelance analytics services and actively seeking opportunities in competitive global graduate tracks. 
 
-### 🚀 About Me
-- 🔭 **Currently working on:** Advanced predictive models for financial and public health datasets.
-- 🌱 **My focus areas:** Risk Analytics, Financial Modeling, Experimental Statistics (ANOVA), and Business Intelligence.
-- 💼 **Community & Leadership:** Passionate about financial literacy and communication, actively serving as a Cowrywise Campus Ambassador, ASSON-UNIOSUN President and FABASSA-UNIOSUN Academic Director.
-- 🤝 **Open for:** Freelance data analysis collaborations, research consulting, and corporate roles in risk management and global markets.
-
-### 📊 Featured Projects
-* **Stock Price Forecasting (Risk Analytics):** Building predictive models (ARIMA/SARIMA & deep learning hybrids) to forecast stock prices and assess exposure to financial risk.
-* **ANOVA (Experimental Statistics):** Applying foundational statistics, normality testing, and hypothesis testing to experimental datasets.
-* **Cholera Outbreak Forecasting (Predictive Modeling):** Utilizing historical epidemiological data and time-series analysis to model public health trends.
+### 🚀 What I Do
+*   **Data Analysis & Cleaning:** Extracting, wrangling, and structuring large datasets to ensure data integrity for downstream analysis.
+*   **Statistical Modeling:** Applying advanced techniques like ANOVA, regression, and time-series forecasting (SARIMA) to real-world operational variables.
+*   **Business Intelligence:** Crafting visual narratives and strategic recommendations that bridge the gap between raw data and executive decision-making.
 
 ### 🛠️ Tech Stack & Tools
-* **Languages:** Python, SQL, R 
-* **Data Visualization & BI:** PowerBI, Microsoft Excel
-* **Statistical Methods:** Time Series Analysis, Hypothesis Testing, Analysis of Variance, Regression Models, Descriptive & Inferential Statistics
+*   **Languages:** Python, R, SQL
+*   **Data Manipulation & Analysis:** Pandas, NumPy, dplyr
+*   **Visualization:** Seaborn, Matplotlib, ggplot2
+*   **Databases:** PostgreSQL, standard SQL dialects
+*   **Tools:** Excel, Jupyter Notebooks, Git/GitHub
+
+### 📈 Highlighted Projects
+*   **[Hybrid Time Series Forecasting Model](link-to-repo):** Developed an advanced predictive model processing inverted chronological, daily-level data. Built a robust evaluation pipeline focusing on seasonal decomposition and SARIMA training residuals to ensure high-accuracy forecasting.
+*   **[Super Store Profitability & Inventory Analysis](link-to-repo):** Leveraged advanced SQL (CTEs, Window Functions, Data Imputation) to identify loss-leading products and optimize inventory strategy.
+*   **[Visualizing the History of Nobel Prize Winners](link-to-repo):** Utilized Python (Pandas & Seaborn) to conduct a proportional and demographic trend analysis of a century of historical data.
+*   **[FoodYum Grocery Sales Standardization](link-to-repo):** Executed rigorous SQL string manipulation and type casting to clean and standardize a heavily fragmented FMCG database.
+
+### 🌟 Leadership & Community
+Beyond the screen, I am passionate about academic leadership and community building. I have served as the President of the Department of Statistics Student Association and as the Academic Director of the university faculty, where I have organized large-scale student orientations, debates, and recreational events. 
 
 ### 📫 Let's Connect!
-- **Hire Me / View My Portfolio:**
-- **LinkedIn:** [View my Profile](linkedin.com/in/john-fafiolu-5475b3274)
+I am always open to discussing data projects, freelance opportunities, or graduate programs. 
+*   **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/john-fafiolu-5475b3274/)
+*   **Content & Personal Brand:** [TikTok](tiktok.com/@john_fafiolu)
+*   **Email:** johnfafiolukayode@gmail.com
 
 ---
-⭐️ *“In God we trust. All others must bring data.” – W. Edwards Deming*
+⭐️ *From data cleaning to predictive modeling, I build solutions that you can trust.*
