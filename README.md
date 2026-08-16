@@ -1,6 +1,6 @@
 # Hi there, I'm John Fafiolu 👋
 
-**Data Analyst | Statistician | Data Storyteller**
+**Data Analyst | Statistician | Data Storyteller & Content Creator**
 
 I am a Data Analyst and quantitative researcher with a strong foundation in statistical modeling and econometrics. I specialize in translating complex, messy data into clean, actionable business strategies. Whether I am forecasting stock market volatility using autoregressive models or standardizing FMCG inventory data, I focus on delivering accuracy and clear, bottom-line insights.
 
